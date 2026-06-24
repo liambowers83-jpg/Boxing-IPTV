@@ -1,3 +1,3 @@
 #EXTM3U
-#EXTINF:-1,My Stream
+#EXTINF:-1 tvg-name="My Stream",My Stream
 https://zalis.phantemlis.top/premium55/tracks-v1a1/mono.m3u8?md5=lPoUjnFS_jKYMEwX_RZJJA&expires=1782297217
